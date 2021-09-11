@@ -172,6 +172,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4cf98bcb97ef214ea71ca336feae0fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  testMode: 0
+  gameId: 4206381
+  video: Interstitial_Android
   restartDelay: 1
   restartSceneDelay: 0.3
   completeLevelUI: {fileID: 0}

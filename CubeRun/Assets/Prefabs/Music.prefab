@@ -45,3 +45,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ImmortalName: LvlMusic
   music: {fileID: 7942731537709371827, guid: 7504ca27762675f49adaf1e24743df9d, type: 3}
+  masterMixer: {fileID: 24300002, guid: 56c5c05dd6e29114ab61bf7ccf283a64, type: 2}
+  musicMixer: {fileID: 1192026505935699243, guid: 56c5c05dd6e29114ab61bf7ccf283a64,
+    type: 2}
+  effectsMixer: {fileID: -1530847636168101062, guid: 56c5c05dd6e29114ab61bf7ccf283a64,
+    type: 2}

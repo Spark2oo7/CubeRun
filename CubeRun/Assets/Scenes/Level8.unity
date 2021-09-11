@@ -97,7 +97,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 03c774579a32a8d44a386bb5bd2eb349,
+    type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 5ae22b28f2fc8ce479115bb1f6aa79af,
     type: 2}
 --- !u!196 &4
@@ -7864,7 +7865,6 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
